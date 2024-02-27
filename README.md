@@ -5,8 +5,7 @@ The objective of this project is to predict the sales of each product by underst
 
 ## Setup
 - Python libraries: pandas, numpy, matplotlib, seaborn, scipy, sklearn, statsmodels, xgboost
-- Dataset: Train big mart.csv (not provided in this repository)
-
+- Dataset: Train big mart.csv
 ## Code Overview
 1. Data Cleaning:
    - Handling missing values in 'Item_Weight' and 'Outlet_Size'.
